@@ -1,7 +1,7 @@
-### Hi im Cheryl
+### Hi I'm Cheryl
 
 
-- im a stdent at lakeVille memorial Highschool
+- I'm a stdent at lakeVille memorial Highschool
 
 - I'm currently learning how to code in python
 
